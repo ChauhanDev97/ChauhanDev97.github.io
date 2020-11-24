@@ -246,8 +246,7 @@ img {
     position: relative;
     left: 6.25vw;
     bottom: 13.021vw;
-    
-    background-image: url('../images/bottles.png');
+    background-image: url('bottles.png');
     background-size: cover;
     background-position: center center;
     width: 25vw;
@@ -380,7 +379,7 @@ img {
     position: relative;
     bottom: 13.021vw;
     left: 6.25vw;
-    background: url('../images/doctor.png');
+    background: url('doctor.png');
     background-size: cover;
     background-position: left top;
     width: 25vw;
@@ -838,7 +837,7 @@ margin-bottom: 0;
 /* Section Eight End*/
 /* Section Nine  Start*/
 .section-nine{
-    background: url('../images/india.svg');
+    background: url('india.svg');
     text-align: center;
     padding: 5.208vw 7.813vw 15.625vw 7.813vw;
 }
@@ -951,7 +950,7 @@ margin-bottom: 0;
     left: 6.25vw;
     bottom: 13.021vw;
     
-    background-image: url('../images/nurse.png');
+    background-image: url('nurse.png');
     background-size: cover;
     background-position: center top;
     width: 25vw;
@@ -999,7 +998,7 @@ margin-bottom: 0;
     box-shadow: 1px 1px 20px #9797973B;
 }
 .section-eleven-card-image{
-    background: url('../images/plant.png');
+    background: url('plant.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1169,7 +1168,7 @@ details {
     height: 0px !important;
   }
   details[open] .close-icon {
-      display: ;
+     
   } 
   
   @keyframes pulse {
@@ -1543,8 +1542,7 @@ header {
         position: relative;
         left: 45px;
         bottom: 94px;
-        
-        background-image: url('../images/bottles.png');
+        background-image: url('bottles.png');
         background-size: cover;
         background-position: center center;
         width: 176px;
@@ -1705,7 +1703,7 @@ header {
         width: 176px;
         height: 188px;
         border-radius: 0 38px;
-        background: url('../images/doctor.png');
+        background: url('doctor.png');
         background-size: cover;
         background-position: left top;
     }
@@ -2277,7 +2275,7 @@ header {
         left: 35px;
         bottom: 100px;
         
-        background-image: url('../images/nurse.png');
+        background-image: url('nurse.png');
         background-size: cover;
         background-position: center top;
         width: 188px;
@@ -2323,7 +2321,7 @@ header {
     
     }
     .section-eleven-card-image{
-        background: url('../images/plant.png');
+        background: url('plant.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
